@@ -1,6 +1,6 @@
 # How to Apply Formatting to a Cell Range in the React Spreadsheet Component 
 
-A quick-start project that shows how to apply formats to a cell range in the Syncfusion React Spreadsheet component. This project demonstrates how to format numbers in cell range as currency, percentages, decimals, and dates. This project also contains code to apply cell formatting options like font size, font family, font color, and fill color and conditional formats with preset colors, data bars, color scales, and icons scales.
+A quick-start project that shows how to apply formats to a cell range in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component. This project demonstrates how to format numbers in cell range as currency, percentages, decimals, and dates. This project also contains code to apply cell formatting options like font size, font family, font color, and fill color and conditional formats with preset colors, data bars, color scales, and icons scales.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/spreadsheet/formatting/
 
